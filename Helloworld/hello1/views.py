@@ -3,4 +3,4 @@ from django.http import HttpResponse
 # Create your views here.
 
 def hello1_msg(request):
-    return HttpResponse("Linux Says Hello from hello1")
+    return HttpResponse("Linux Says Hello from hello1 test:")
